@@ -1,0 +1,4 @@
+d2lvalence==1.2.1
+D2LValence-Util==0.1.16
+future==0.15.2
+requests==2.9.1
